@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CheckPointScript">
+    <Position X="3.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\CheckPointScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalScreenScript">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAIAAAAAAAAAAAAAAAAAAAAAEACAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\FinalScreenScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HealthbarScript">
+    <Position X="13" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAEAAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\HealthbarScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeroScript">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wAxAAggAEmIAIAAAhAAEAQsAAJAAAYCIBwBAQAAAQCA=</HashCode>
+      <FileName>Assets\Scripts\HeroScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hotzonescript">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAAAAAAAAAAAAAAAAAAEAAAAAAAQAABAIAAEA=</HashCode>
+      <FileName>Assets\Scripts\Hotzonescript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu">
+    <Position X="4.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModifiedMinotaurScript">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAEADIAKAGACAIMAAAAAEAEMBNAABgAcAAkAIIAEA=</HashCode>
+      <FileName>Assets\Scripts\ModifiedMinotaurScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PauseMenuButtons">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAKAACAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PauseMenuButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PauseMenuScript">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAgAAACAAAAAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\PauseMenuScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Skeleton2script">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAgBAAIAAgigIIAAAAAEEUMBIECBlAUBAgQaAAEA=</HashCode>
+      <FileName>Assets\Scripts\Skeleton2script.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrapScript">
+    <Position X="14.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQBAACAACAAAAAAAAAAAAgAQEAAgAALAQAAIAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\TrapScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TriggerAreaCheck">
+    <Position X="11.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAABAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\TriggerAreaCheck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WatchPlayer">
+    <Position X="13" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAQACAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\WatchPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioScript">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAQAAAAAAAAAAAAAAACgCAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AudioScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="billboard">
+    <Position X="4.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\billboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HitMinotaurScript">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAggAAAAAAAAAAAAAAAAAAAAgCYAAABA=</HashCode>
+      <FileName>Assets\Scripts\HitMinotaurScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HitScript">
+    <Position X="11.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAAACAAAggQAAAAAAAAAAAAAAAAAAAgCYAAAAA=</HashCode>
+      <FileName>Assets\Scripts\HitScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotzoneMinotaurScript">
+    <Position X="13" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAAAAAAAAAAAAAAAAAAEAAAAAAAQAABAIAAEA=</HashCode>
+      <FileName>Assets\Scripts\HotzoneMinotaurScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TilemapScript">
+    <Position X="7.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAgAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\TilemapScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TriggerMinotaurArea">
+    <Position X="14.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAABAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\TriggerMinotaurArea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
